@@ -58,6 +58,9 @@
     .link-column{
         align-items: center;
     }
+        .primary-button{
+        text-align: center;
+        }
 }
 @media screen and (max-width:479px) {
     h1{
